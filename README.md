@@ -1,2 +1,2 @@
-# elixir-dbg-console
-Console client for the Elixir Development Server (EDS)
+# elixir-dbg
+Console client for the Elixir Debug Server (EDS)
